@@ -18,7 +18,7 @@ $text = '<?xml version="1.0" encoding="utf-8"?>
 </post>';
 $xml = Xml::build($text);
 
-// Local file
+Local file
 $xml = Xml::build('/home/awesome/unicorns.xml');
 
 $data = [
@@ -51,7 +51,7 @@ $text = '<?xml version="1.0" encoding="utf-8"?>
 </post>';
 $xml = Xml::build($text);
 
-// Local file
+Local file
 $xml = Xml::build('/home/awesome/unicorns.xml');
 
 $data = [
