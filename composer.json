@@ -1,0 +1,28 @@
+{
+	"name": "asm/utility",
+    "description": "The XML library converts XML to Array, Array to XML.",
+    "type": "library",
+    "license": "MIT",
+    "keywords": ["array", "xml"],
+    "authors": [
+        {
+            "name": "CakePHP Framework",
+            "homepage": "http://book.cakephp.org/3.0/en/core-libraries/xml.html"
+        },
+        {
+            "name":"Alex Monte",
+            "homepage":"http://www.leleco.blog.br"
+        }
+    ],
+    "support":{
+        "Slack": "https://cakephpbrasil.slack.com/"
+    },
+    "require": {
+        "php": ">=5.3"
+    },
+	"autoload": {
+		"psr-4": {
+			"Asm\\": "src"
+		}
+	}
+}        
