@@ -1,9 +1,11 @@
 # Utility
 
-Português
-Manipulação de XML para PHP
+Composer: composer require asmpkg/utility
 
-A biblioteca XML faz a conversão de XML para Array, de Array para XML.
+Português<br>
+Manipulação de XML para PHP<br>
+
+A biblioteca XML faz a conversão de XML para Array, de Array para XML.<br>
 
 A documentacao completa sobre como utilizar a biblioteca XML: http://book.cakephp.org/3.0/en/core-libraries/xml.html
 
