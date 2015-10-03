@@ -16,7 +16,7 @@
  *
  * 
  */
-namespace Asm\Utility;
+namespace Asmpkg\Utility;
 
 use DOMDocument;
 
