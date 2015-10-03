@@ -1,5 +1,5 @@
 {
-	"name": "Asmpkg/utility",
+	"name": "asmpkg/utility",
     "description": "The XML library converts XML to Array, Array to XML.",
     "type": "library",
     "license": "MIT",
