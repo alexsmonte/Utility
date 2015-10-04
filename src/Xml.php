@@ -18,8 +18,8 @@
  */
 namespace Asmpkg\Utility;
 
+use Exception as Exception;
 use DOMDocument;
-
 /**
  * XML handling for CakePHP.
  *
